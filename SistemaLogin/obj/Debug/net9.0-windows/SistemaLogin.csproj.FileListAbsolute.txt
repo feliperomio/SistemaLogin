@@ -1,0 +1,17 @@
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\bin\Debug\net9.0-windows\SistemaLogin.exe
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\bin\Debug\net9.0-windows\SistemaLogin.deps.json
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\bin\Debug\net9.0-windows\SistemaLogin.runtimeconfig.json
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\bin\Debug\net9.0-windows\SistemaLogin.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\bin\Debug\net9.0-windows\SistemaLogin.pdb
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.Form1.resources
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.csproj.GenerateResource.cache
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.AssemblyInfoInputs.cache
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.AssemblyInfo.cs
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\refint\SistemaLogin.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.pdb
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.genruntimeconfig.cache
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\ref\SistemaLogin.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\Windows Forms\SistemaLogin\obj\Debug\net9.0-windows\SistemaLogin.formLogin.resources
